@@ -1,0 +1,30 @@
+.post-container{
+    margin: auto;
+    width: 50%;
+    margin-top: 75px;
+    border: 2px solid lightgrey;
+    padding:20px;
+}
+#discinput{
+    width: 90%;
+    margin: 10px;
+}
+.discdiv{
+    width: 100%;
+}
+.spandiv{
+  margin:10px;
+  display: flex;
+  width: 90%;
+}
+.spanone{
+ margin-right: 40%;
+}
+.submitdiv{
+    width: 100%;
+    text-align: center;
+}
+.file{
+    position: relative;
+    left:10px;
+}

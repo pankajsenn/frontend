@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    border-bottom:3px solid #006238;
+    border-radius: 5px;
+}
+.camera-icon{
+    margin-left: auto;
+    margin-right: 25px;
+    align-self: center;
+}
+.logo{
+    margin-right: auto;
+    margin-left: 25px;
+    align-self: center;
+    font-size: 30px;
+    padding-top: 5px;
+}
+body{
+    padding: 5px;
+    margin: 0;
+}
+.logopart2{
+    font-size: 50px;
+    font-weight: 500;
+    color: #006238;
+    position: relative;
+    bottom: 12px;
+    left: 5px;
+}
